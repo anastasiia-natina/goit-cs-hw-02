@@ -7,7 +7,7 @@ websites=(
 )
 log_file = "website_status.log"
 
-#> "$log_file"
+> "$log_file"
 
 check_website() {
     
